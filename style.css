@@ -40,10 +40,10 @@ body::-webkit-scrollbar-thumb{
 #cursor-blur{
     height:350px;
     width:350px;
-    background-color: rgba(150, 193, 30, 0.3);
+    background-color: rgba(213, 255, 96, 0.51);
     border-radius: 50%;
     position: fixed;
-   filter: blur(25px);
+   filter: blur(40px);
    z-index: 9;
    transition: all linear 0.4s;
 }
